@@ -33,6 +33,7 @@ const NoteProvider = ({ children }) => {
           }}
         >
           <Spinner size="100" />
+          
         </div>
       ) : (
         children
